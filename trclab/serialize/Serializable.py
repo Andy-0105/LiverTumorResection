@@ -1,3 +1,4 @@
+""" Interface """
 class ISerializable:
     def serialize(self):
         pass
