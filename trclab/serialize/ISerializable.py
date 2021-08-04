@@ -1,4 +1,4 @@
-""" Interface No Impl """
+""" Interface - No Impl """
 class ISerializable:
     def serialize(self):
         pass
