@@ -1,6 +1,6 @@
 import __AbstractOrganLabel
 from trclab.utils.RGBColor import RGBColor
-from trclab.serialize.Serializable import ISerializable
+from trclab.serialize.ISerializable import ISerializable
 
 
 class JsonOrganLabel(__AbstractOrganLabel, ISerializable):

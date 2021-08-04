@@ -1,5 +1,5 @@
 import json
-from trclab.serialize.Serializable import ISerializable
+from trclab.serialize.ISerializable import ISerializable
 
 
 class RGBColor(ISerializable):
